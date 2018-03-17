@@ -9,8 +9,6 @@ if __name__ == "__main__":
     epc = sys.argv[2].encode()
     sig = open(sys.argv[3], "rb").read()
 
-
-    for 
-        vk = VerifyingKey.from_string(ownerkey)
+    vk = VerifyingKey.from_string(ownerkey)
 
     
