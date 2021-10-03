@@ -17,7 +17,7 @@ lru-dict==1.1.6
 py-solc==2.1.0
 pycryptodome==3.5.1
 pysha3==1.0.2
-requests==2.18.4
+requests==2.20.0
 rlp==0.6.0
 semantic-version==2.6.0
 six==1.11.0
